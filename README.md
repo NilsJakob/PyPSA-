@@ -3,6 +3,7 @@ Power System Analysis in Python
 
 ![][img]
 
+The Power System Analysis in Python (PyPSA) enables a vast amount of power flow analysis.
 
 
 
